@@ -1,0 +1,2 @@
+name=savu
+print(name)
